@@ -1,0 +1,4 @@
+Take a variable (a) and store any value in it. Example; a=5
+Take a variable (b) and store any value in it. Example; b=4
+Take another variable (c), which will store the result of a and b. Example; c=a+b
+Print the variable c to show the answer.
